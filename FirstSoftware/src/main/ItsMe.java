@@ -1,3 +1,6 @@
+package main;
+
+
 /**
 * The ItsMe program implements an application that
 * simply displays "Hello" to the standard output.
