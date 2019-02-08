@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+
 <project default="compile">
 <property name= "src.java.dir" location = "./src/main"/>
 <!--<property name= "src.test.dir" location = "./src/main/test"/>-->
