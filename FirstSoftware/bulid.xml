@@ -17,5 +17,4 @@
    <jar destfile ="${result.jar.file}">
        <fileset dir ="${result.javaclasses.dir}"></fileset>
    </jar>
-</target>
-</project>
+</target></project>
